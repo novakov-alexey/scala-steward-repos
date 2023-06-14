@@ -444,6 +444,7 @@
 - firstbirdtech/akka-persistent-scheduler
 - firstbirdtech/backbone
 - flyway/flyway-play
+- flink-extended/flink-scala-api
 - foreign-language-reader/api
 - fp-in-bo/jms4s
 - fp-tower/foundations
